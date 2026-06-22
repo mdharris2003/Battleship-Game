@@ -24,8 +24,9 @@ A console-based implementation of the classic Battleship game developed in Java.
 ## Project Status
 
 * Ship Placement Completed
-* Shooting mechanism Completed
-
+* Shooting Mechanism Completed
+* Gameplay with Fog of War
+* Ship Sinking Detection
 
 ## How to Run
 
